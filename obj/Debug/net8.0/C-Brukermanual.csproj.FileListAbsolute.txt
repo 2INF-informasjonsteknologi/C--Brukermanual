@@ -1,0 +1,15 @@
+C:\Code\C-Brukermanual\bin\Debug\net8.0\C-Brukermanual.exe
+C:\Code\C-Brukermanual\bin\Debug\net8.0\C-Brukermanual.deps.json
+C:\Code\C-Brukermanual\bin\Debug\net8.0\C-Brukermanual.runtimeconfig.json
+C:\Code\C-Brukermanual\bin\Debug\net8.0\C-Brukermanual.dll
+C:\Code\C-Brukermanual\bin\Debug\net8.0\C-Brukermanual.pdb
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.AssemblyInfoInputs.cache
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.AssemblyInfo.cs
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.csproj.CoreCompileInputs.cache
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.sourcelink.json
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.dll
+C:\Code\C-Brukermanual\obj\Debug\net8.0\refint\C-Brukermanual.dll
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.pdb
+C:\Code\C-Brukermanual\obj\Debug\net8.0\C-Brukermanual.genruntimeconfig.cache
+C:\Code\C-Brukermanual\obj\Debug\net8.0\ref\C-Brukermanual.dll
