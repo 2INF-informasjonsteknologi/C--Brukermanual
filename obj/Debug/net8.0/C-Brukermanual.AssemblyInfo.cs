@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-Brukermanual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49efad3c6d81f2341f8e67b335eaf18442bf9e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+327f59e989bf390715f7c936ae2fab813858ed6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-Brukermanual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-Brukermanual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // Velkomstmelding til spilleren
-        Console.WriteLine("Velkommen til Guess the Number-spillet!");
+        Console.WriteLine("Velkommen til Gjett Tallet!");
         Console.WriteLine("Jeg har valgt et tilfeldig tall mellom 1 og 100.");
         Console.WriteLine("Prøv å gjette tallet!");
 
